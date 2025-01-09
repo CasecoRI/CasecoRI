@@ -1,6 +1,6 @@
+- 👋 Hi, I’m @CasecoRI
 <!---
 
-- 👋 Hi, I’m @CasecoRI
 - 👀 I’m interested in geography.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
